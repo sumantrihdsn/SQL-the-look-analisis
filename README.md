@@ -112,13 +112,15 @@ ORDER BY total_sales DESC;
 
 ## 💡 Insight Bisnis
 
-1.  **Distribusi Kategori Produk (Soal 3):**
+1.  **Kategori Produk (Soal 3):**
     
-      * *(Tuliskan temuan Anda di sini, misalnya: Kategori X memiliki variasi produk terbanyak, menunjukkan fokus inventaris pada kategori tersebut...)*
+    - kategori produk yang paling tinggi adalah 'Intimates' dengan 2.363 produk
+    - Sedangkan produk yang yang terendah adalah 'Clothing Sets' dengan 37 produk
 
 2.  **Kontribusi Penjualan per Kategori (Soal 5):**
     
-      * *(Tuliskan temuan Anda di sini, misalnya: Kategori Y menghasilkan nilai penjualan tertinggi meskipun jumlah produknya tidak sebanyak kategori X...)*
+      - Produk yg paling tinggi total penjualannya adalah 'Outerwear & Coats dengan total 1.304.349.53
+      - sedangkan produk yang total penjualannya terendah adalah 'Clothing Sets'
 
 -----
 
